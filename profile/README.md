@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Nemesis+Group;Empower+Security%2C+Ensure+Resilience;Adversary+Emulation+%7C+Red+Team+%7C+Pentest"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=BFA569&center=true&vCenter=true&width=600&lines=Nemesis+Group;Empower+Security%2C+Ensure+Resilience;Adversary+Emulation+%7C+Red+Team+%7C+Pentest"/>
 </h1>
 
 <p align="center">
